@@ -1,0 +1,15 @@
+#py
+.ipynb_checkpoints/
+
+#mac
+.ropeproject/
+
+#venv
+venv/
+
+#ply files
+DataSets/
+.gitattributes
+
+#test
+main3.py
